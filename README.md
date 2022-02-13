@@ -13,3 +13,10 @@ Address_link URL and annex all information in each txt document.
 
 DATA Extracted from below Website and stored in Structured Data Format.
 <img width="941" alt="Screenshot 2022-02-12 at 10 05 36 PM" src="https://user-images.githubusercontent.com/94094997/153736502-807f8b4a-e06d-481d-8337-427384670faf.png">
+
+Data Stored in CSV
+<img width="2129" alt="Screenshot 2022-02-12 at 10 13 56 PM" src="https://user-images.githubusercontent.com/94094997/153736699-06a7928f-a65c-44a4-bd00-9c5e8c952189.png">
+
+DATA insterted into MYSQL DATABASE
+<img width="1997" alt="Screenshot 2022-02-12 at 10 19 46 PM" src="https://user-images.githubusercontent.com/94094997/153736838-3b0429f9-60f2-4725-b574-0a8a60c07c99.png">
+
