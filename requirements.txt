@@ -1,0 +1,16 @@
+beautifulsoup4==4.10.0
+bs4==0.0.1
+certifi==2021.10.8
+charset-normalizer==2.0.11
+config==0.5.1
+html5lib==1.1
+idna==3.3
+lxml==4.7.1
+mysql-connector-python==8.0.28
+protobuf==3.19.4
+pyodbc==4.0.32
+requests==2.27.1
+six==1.16.0
+soupsieve==2.3.1
+urllib3==1.26.8
+webencodings==0.5.1
