@@ -1,4 +1,4 @@
-# webscrapping
+# webscraping
 Information Extraction from Webpages as Semi-Structured Data or Unstructured Data
 ▪ Bring content utilizing web scratching from the connection https://www.infoplease.com/homework-help/history/collected-state-union-addresses-us-presidents
 ▪ Parse data in python using Beautiful Soup library
