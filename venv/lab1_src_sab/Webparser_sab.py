@@ -1,8 +1,7 @@
 #coding:utf-8
 """
-SPRING 2022 -CIS 493/593 – BIG DATA LAB ASSIGNMENT - 1
 Information Extraction from Webpages as Semi-Structured Data or Unstructured Data
-Method 2: Webpages as Unstructured Data with Parsing
+Method : Webpages as Unstructured Data with Parsing
 Author: Sabareeswaran Shanmugam
 •	Scripting language – python 3.7
 •	Database – MySQL Workbench 8.0
